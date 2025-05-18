@@ -429,6 +429,7 @@ header .navbar {
     .menu-section .menu-list .menu-item{
         width: calc(100% / 3 - 60px);
     }
+   
 }
     
 /* Responsive medial query code for max width 900px */
